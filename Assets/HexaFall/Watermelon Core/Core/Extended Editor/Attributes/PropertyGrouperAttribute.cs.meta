@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 115d531f853d85c40a97ef1d3aaa8612
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212144
+  packageName: Hexagon Fall | Template + Editor
+  packageVersion: 1.2.1
+  assetPath: Assets/Project Data/Watermelon Core/Core/Extended Editor/Attributes/PropertyGrouperAttribute.cs
+  uploadId: 648896

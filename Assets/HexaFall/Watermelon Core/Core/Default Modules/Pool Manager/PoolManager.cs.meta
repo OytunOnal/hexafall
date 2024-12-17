@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 02fca8bab5845874ab9984a0a905d7da
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: -108
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212144
+  packageName: Hexagon Fall | Template + Editor
+  packageVersion: 1.2.1
+  assetPath: Assets/Project Data/Watermelon Core/Core/Default Modules/Pool Manager/PoolManager.cs
+  uploadId: 648896

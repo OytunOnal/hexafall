@@ -1,0 +1,346 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 44504290390d5e94297787a13cf4fa8e, type: 3}
+  m_Name: Skins Database
+  m_EditorClassIdentifier: 
+  tabs:
+  - uniqueId: 10/3/2023 3:09:16 PM_432401
+    name: Color
+    type: 0
+    previewType: 1
+    previewPrefab: {fileID: 8198351664627184911, guid: 3a4bf94c82ad97d4fa9cf33717e4e109,
+      type: 3}
+    backgroundImage: {fileID: 21300000, guid: bcb3485bc794e8040b3f9475cb8f8c7d, type: 3}
+    backgroundColor: {r: 1, g: 1, b: 1, a: 0.972549}
+    panelColor: {r: 0.4, g: 0.8980392, b: 0.58431375, a: 1}
+    tabActiveColor: {r: 0.40000004, g: 0.8980393, b: 0.58431375, a: 1}
+    tabDisabledColor: {r: 0.3372549, g: 0.6627451, b: 0.90196085, a: 1}
+    productBackgroundColor: {r: 0.24313727, g: 0.5294118, b: 0.34901962, a: 1}
+  - uniqueId: 10/3/2023 3:09:16 PM_432401
+    name: Hat
+    type: 1
+    previewType: 1
+    previewPrefab: {fileID: 8198351664627184911, guid: 3a4bf94c82ad97d4fa9cf33717e4e109,
+      type: 3}
+    backgroundImage: {fileID: 21300000, guid: bcb3485bc794e8040b3f9475cb8f8c7d, type: 3}
+    backgroundColor: {r: 1, g: 1, b: 1, a: 0.9607843}
+    panelColor: {r: 0.40000004, g: 0.8980393, b: 0.58431375, a: 1}
+    tabActiveColor: {r: 0.40000004, g: 0.8980393, b: 0.58431375, a: 1}
+    tabDisabledColor: {r: 0.3372549, g: 0.6627451, b: 0.90196085, a: 1}
+    productBackgroundColor: {r: 0.24313727, g: 0.5294118, b: 0.34901962, a: 1}
+  products:
+  - uniqueId: 10/3/2023 3:19:42 PM_157213
+    isExpanded: 0
+    id: 0
+    tabId: 0
+    isDummy: 0
+    name: Red Skin
+    openedSprite: {fileID: 21300000, guid: 77a1b4b49ba5d7548916cac4cdacb42f, type: 3}
+    lockedSprite: {fileID: 21300000, guid: 77a1b4b49ba5d7548916cac4cdacb42f, type: 3}
+    preview2DSprite: {fileID: 0}
+    prefab: {fileID: 3197238484478725374, guid: 8dcb98950747e73459997c27201ffe32,
+      type: 3}
+    previewPrefab: {fileID: 3197238484478725374, guid: 8dcb98950747e73459997c27201ffe32,
+      type: 3}
+    purchaseType: 0
+    currency: 0
+    cost: 0
+  - uniqueId: 10/3/2023 3:21:11 PM_157511
+    isExpanded: 0
+    id: 1
+    tabId: 0
+    isDummy: 0
+    name: Violet Skin
+    openedSprite: {fileID: 21300000, guid: ed78716bab2c6024dab003730abf6daa, type: 3}
+    lockedSprite: {fileID: 21300000, guid: ed78716bab2c6024dab003730abf6daa, type: 3}
+    preview2DSprite: {fileID: 0}
+    prefab: {fileID: 3197238484478725374, guid: 2368d7c2d93666a4cae716e96bdbf0db,
+      type: 3}
+    previewPrefab: {fileID: 3197238484478725374, guid: 2368d7c2d93666a4cae716e96bdbf0db,
+      type: 3}
+    purchaseType: 0
+    currency: 0
+    cost: 0
+  - uniqueId: 10/3/2023 3:22:05 PM_830930
+    isExpanded: 0
+    id: 2
+    tabId: 0
+    isDummy: 0
+    name: Green Skin
+    openedSprite: {fileID: 21300000, guid: 4d224a5bcb5c43640942d0183f3e4fbc, type: 3}
+    lockedSprite: {fileID: 21300000, guid: 4d224a5bcb5c43640942d0183f3e4fbc, type: 3}
+    preview2DSprite: {fileID: 0}
+    prefab: {fileID: 3197238484478725374, guid: 69ede5de7f477124985249c7c2d55146,
+      type: 3}
+    previewPrefab: {fileID: 3197238484478725374, guid: 69ede5de7f477124985249c7c2d55146,
+      type: 3}
+    purchaseType: 0
+    currency: 0
+    cost: 0
+  - uniqueId: 10/3/2023 3:22:35 PM_662257
+    isExpanded: 0
+    id: 3
+    tabId: 0
+    isDummy: 0
+    name: Dark Blue Skin
+    openedSprite: {fileID: 21300000, guid: 5011b5467ed51be4d8cf3c27d63d8a5a, type: 3}
+    lockedSprite: {fileID: 21300000, guid: 5011b5467ed51be4d8cf3c27d63d8a5a, type: 3}
+    preview2DSprite: {fileID: 0}
+    prefab: {fileID: 3197238484478725374, guid: 4002a5109f6de3b4fa0bac2a48d2eb34,
+      type: 3}
+    previewPrefab: {fileID: 3197238484478725374, guid: 4002a5109f6de3b4fa0bac2a48d2eb34,
+      type: 3}
+    purchaseType: 0
+    currency: 0
+    cost: 0
+  - uniqueId: 10/3/2023 3:29:38 PM_393396
+    isExpanded: 0
+    id: 4
+    tabId: 0
+    isDummy: 0
+    name: Acid Green Skin
+    openedSprite: {fileID: 21300000, guid: d8689b513aa7f0f4783edcfd47a52dd3, type: 3}
+    lockedSprite: {fileID: 21300000, guid: d8689b513aa7f0f4783edcfd47a52dd3, type: 3}
+    preview2DSprite: {fileID: 0}
+    prefab: {fileID: 3197238484478725374, guid: 85b30dcaf8cd84a47b2b599d03893c1e,
+      type: 3}
+    previewPrefab: {fileID: 3197238484478725374, guid: 85b30dcaf8cd84a47b2b599d03893c1e,
+      type: 3}
+    purchaseType: 0
+    currency: 0
+    cost: 0
+  - uniqueId: 10/3/2023 3:31:46 PM_993540
+    isExpanded: 0
+    id: 5
+    tabId: 0
+    isDummy: 0
+    name: Turquoise Skin
+    openedSprite: {fileID: 21300000, guid: cccc5ab0f2a0b4548825135a132d084c, type: 3}
+    lockedSprite: {fileID: 21300000, guid: cccc5ab0f2a0b4548825135a132d084c, type: 3}
+    preview2DSprite: {fileID: 0}
+    prefab: {fileID: 3197238484478725374, guid: 642cf2ff8e4193948969cf075ffd63ff,
+      type: 3}
+    previewPrefab: {fileID: 3197238484478725374, guid: 642cf2ff8e4193948969cf075ffd63ff,
+      type: 3}
+    purchaseType: 0
+    currency: 0
+    cost: 0
+  - uniqueId: 10/3/2023 3:32:32 PM_234874
+    isExpanded: 0
+    id: 6
+    tabId: 0
+    isDummy: 0
+    name: Orange Skin
+    openedSprite: {fileID: 21300000, guid: 1d486173dfb76cc4d8cd572e48339593, type: 3}
+    lockedSprite: {fileID: 21300000, guid: 1d486173dfb76cc4d8cd572e48339593, type: 3}
+    preview2DSprite: {fileID: 0}
+    prefab: {fileID: 3197238484478725374, guid: 35eeb021e40588148baf511f2741b164,
+      type: 3}
+    previewPrefab: {fileID: 3197238484478725374, guid: 35eeb021e40588148baf511f2741b164,
+      type: 3}
+    purchaseType: 0
+    currency: 0
+    cost: 0
+  - uniqueId: 10/3/2023 3:34:11 PM_552313
+    isExpanded: 0
+    id: 7
+    tabId: 0
+    isDummy: 0
+    name: Pink Skin
+    openedSprite: {fileID: 21300000, guid: f6f79e15fb4c8c94eb626c37b6175241, type: 3}
+    lockedSprite: {fileID: 21300000, guid: f6f79e15fb4c8c94eb626c37b6175241, type: 3}
+    preview2DSprite: {fileID: 0}
+    prefab: {fileID: 3197238484478725374, guid: 5fe56b3d28e4b9245930455c9924674c,
+      type: 3}
+    previewPrefab: {fileID: 3197238484478725374, guid: 5fe56b3d28e4b9245930455c9924674c,
+      type: 3}
+    purchaseType: 0
+    currency: 0
+    cost: 0
+  - uniqueId: 10/3/2023 3:35:42 PM_902144
+    isExpanded: 0
+    id: 8
+    tabId: 0
+    isDummy: 0
+    name: Light Blue Skin
+    openedSprite: {fileID: 21300000, guid: 2efdb61dcfd064e40952474073301856, type: 3}
+    lockedSprite: {fileID: 21300000, guid: 2efdb61dcfd064e40952474073301856, type: 3}
+    preview2DSprite: {fileID: 0}
+    prefab: {fileID: 3197238484478725374, guid: ce467dc2ec01ed6478f59449d8e8aeb3,
+      type: 3}
+    previewPrefab: {fileID: 3197238484478725374, guid: ce467dc2ec01ed6478f59449d8e8aeb3,
+      type: 3}
+    purchaseType: 0
+    currency: 0
+    cost: 0
+  - uniqueId: 10/3/2023 3:41:26 PM_180456
+    isExpanded: 0
+    id: 0
+    tabId: 1
+    isDummy: 0
+    name: Default Hat
+    openedSprite: {fileID: 21300000, guid: 53f9a34a3d127f5429e5c3a2e4df130a, type: 3}
+    lockedSprite: {fileID: 21300000, guid: 53f9a34a3d127f5429e5c3a2e4df130a, type: 3}
+    preview2DSprite: {fileID: 0}
+    prefab: {fileID: 7932907497049139691, guid: 2a9b0c4fd6aaead4dabf83a7c67ddf6d,
+      type: 3}
+    previewPrefab: {fileID: 7932907497049139691, guid: 2a9b0c4fd6aaead4dabf83a7c67ddf6d,
+      type: 3}
+    purchaseType: 0
+    currency: 0
+    cost: 0
+  - uniqueId: 10/3/2023 3:42:00 PM_444594
+    isExpanded: 0
+    id: 1
+    tabId: 1
+    isDummy: 0
+    name: Astronaut Helmet
+    openedSprite: {fileID: 21300000, guid: 908fb3f4c254e9f42837b3d3ec9bcda5, type: 3}
+    lockedSprite: {fileID: 21300000, guid: 908fb3f4c254e9f42837b3d3ec9bcda5, type: 3}
+    preview2DSprite: {fileID: 0}
+    prefab: {fileID: 1448169160559869637, guid: f93cc5b7e48035b4eb843d40dec3db3a,
+      type: 3}
+    previewPrefab: {fileID: 1448169160559869637, guid: f93cc5b7e48035b4eb843d40dec3db3a,
+      type: 3}
+    purchaseType: 0
+    currency: 0
+    cost: 0
+  - uniqueId: 10/3/2023 3:42:57 PM_638847
+    isExpanded: 0
+    id: 2
+    tabId: 1
+    isDummy: 0
+    name: Cheesse Hat
+    openedSprite: {fileID: 21300000, guid: bd74b24b2447f53489fff5d235125f57, type: 3}
+    lockedSprite: {fileID: 21300000, guid: bd74b24b2447f53489fff5d235125f57, type: 3}
+    preview2DSprite: {fileID: 0}
+    prefab: {fileID: 6719065602764434243, guid: d9db6e4488852b840a75e368481d0f94,
+      type: 3}
+    previewPrefab: {fileID: 6719065602764434243, guid: d9db6e4488852b840a75e368481d0f94,
+      type: 3}
+    purchaseType: 0
+    currency: 0
+    cost: 0
+  - uniqueId: 10/3/2023 3:43:55 PM_773772
+    isExpanded: 0
+    id: 3
+    tabId: 1
+    isDummy: 0
+    name: Regular Hat
+    openedSprite: {fileID: 21300000, guid: e4a03920294cc244ea378f9b9692c58e, type: 3}
+    lockedSprite: {fileID: 21300000, guid: e4a03920294cc244ea378f9b9692c58e, type: 3}
+    preview2DSprite: {fileID: 0}
+    prefab: {fileID: 7496703490468703770, guid: 73c258279a922764e8ed205012184d37,
+      type: 3}
+    previewPrefab: {fileID: 7496703490468703770, guid: 73c258279a922764e8ed205012184d37,
+      type: 3}
+    purchaseType: 0
+    currency: 0
+    cost: 0
+  - uniqueId: 10/3/2023 3:44:26 PM_862215
+    isExpanded: 0
+    id: 4
+    tabId: 1
+    isDummy: 0
+    name: Christmas Hat
+    openedSprite: {fileID: 21300000, guid: 91b7bbb9d29d22e4fb92cc3a2b78008e, type: 3}
+    lockedSprite: {fileID: 21300000, guid: 91b7bbb9d29d22e4fb92cc3a2b78008e, type: 3}
+    preview2DSprite: {fileID: 0}
+    prefab: {fileID: 5421257110644811464, guid: eaecd4d655b1ca64482fe19b35ba49b6,
+      type: 3}
+    previewPrefab: {fileID: 5421257110644811464, guid: eaecd4d655b1ca64482fe19b35ba49b6,
+      type: 3}
+    purchaseType: 0
+    currency: 0
+    cost: 0
+  - uniqueId: 10/3/2023 3:47:15 PM_147251
+    isExpanded: 0
+    id: 5
+    tabId: 1
+    isDummy: 0
+    name: Warrior Helmet
+    openedSprite: {fileID: 21300000, guid: e0c196266627d0f408549ffc052b9235, type: 3}
+    lockedSprite: {fileID: 21300000, guid: e0c196266627d0f408549ffc052b9235, type: 3}
+    preview2DSprite: {fileID: 0}
+    prefab: {fileID: 3481501265669705648, guid: 6b6a2f0e297841f43b929a78707f61a8,
+      type: 3}
+    previewPrefab: {fileID: 3481501265669705648, guid: 6b6a2f0e297841f43b929a78707f61a8,
+      type: 3}
+    purchaseType: 0
+    currency: 0
+    cost: 0
+  - uniqueId: 10/3/2023 3:48:06 PM_113198
+    isExpanded: 0
+    id: 6
+    tabId: 1
+    isDummy: 0
+    name: Mask 1
+    openedSprite: {fileID: 21300000, guid: 419cefa680d6b2e43aee4f28e51cae27, type: 3}
+    lockedSprite: {fileID: 21300000, guid: 419cefa680d6b2e43aee4f28e51cae27, type: 3}
+    preview2DSprite: {fileID: 0}
+    prefab: {fileID: 108869301286883459, guid: eedb4ae9778282d408d03f60279c9080, type: 3}
+    previewPrefab: {fileID: 108869301286883459, guid: eedb4ae9778282d408d03f60279c9080,
+      type: 3}
+    purchaseType: 0
+    currency: 0
+    cost: 0
+  - uniqueId: 10/3/2023 3:48:31 PM_454488
+    isExpanded: 0
+    id: 7
+    tabId: 1
+    isDummy: 0
+    name: Headphones
+    openedSprite: {fileID: 21300000, guid: f6f5a5674b702a84ca229be0beaa6a5a, type: 3}
+    lockedSprite: {fileID: 21300000, guid: f6f5a5674b702a84ca229be0beaa6a5a, type: 3}
+    preview2DSprite: {fileID: 0}
+    prefab: {fileID: 3400372631057038221, guid: 76e342d17db4c5d4192c853d7d7e9c75,
+      type: 3}
+    previewPrefab: {fileID: 3400372631057038221, guid: 76e342d17db4c5d4192c853d7d7e9c75,
+      type: 3}
+    purchaseType: 0
+    currency: 0
+    cost: 0
+  - uniqueId: 10/3/2023 3:48:57 PM_867905
+    isExpanded: 0
+    id: 8
+    tabId: 1
+    isDummy: 0
+    name: Mask 2
+    openedSprite: {fileID: 21300000, guid: 6345488d79002b54e818d12728fd3d0b, type: 3}
+    lockedSprite: {fileID: 21300000, guid: 6345488d79002b54e818d12728fd3d0b, type: 3}
+    preview2DSprite: {fileID: 0}
+    prefab: {fileID: 3232379495328285639, guid: 9fee5628813d0604f876d5c45488fc17,
+      type: 3}
+    previewPrefab: {fileID: 3232379495328285639, guid: 9fee5628813d0604f876d5c45488fc17,
+      type: 3}
+    purchaseType: 0
+    currency: 0
+    cost: 0
+  - uniqueId: 10/3/2023 3:49:19 PM_603997
+    isExpanded: 0
+    id: 9
+    tabId: 1
+    isDummy: 0
+    name: Crown
+    openedSprite: {fileID: 21300000, guid: 73ed9a6dd23d45d4b9c2ebb68be22e98, type: 3}
+    lockedSprite: {fileID: 21300000, guid: 73ed9a6dd23d45d4b9c2ebb68be22e98, type: 3}
+    preview2DSprite: {fileID: 0}
+    prefab: {fileID: 5640628643930638136, guid: ba07ddd33d2118b41821e08721d79a16,
+      type: 3}
+    previewPrefab: {fileID: 5640628643930638136, guid: ba07ddd33d2118b41821e08721d79a16,
+      type: 3}
+    purchaseType: 0
+    currency: 0
+    cost: 0
+  TabTypes: 0000000001000000
+  coinsForAdsAmount: 0
+  currencyForAds: 0

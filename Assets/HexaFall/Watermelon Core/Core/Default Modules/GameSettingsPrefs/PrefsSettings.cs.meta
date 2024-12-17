@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c321ba1fbd6bd2a41b799fa7363e69de
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212144
+  packageName: Hexagon Fall | Template + Editor
+  packageVersion: 1.2.1
+  assetPath: Assets/Project Data/Watermelon Core/Core/Default Modules/GameSettingsPrefs/PrefsSettings.cs
+  uploadId: 648896

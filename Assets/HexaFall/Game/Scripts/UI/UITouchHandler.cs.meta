@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b946f18ff21111145ac6578159ca8572
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212144
+  packageName: Hexagon Fall | Template + Editor
+  packageVersion: 1.2.1
+  assetPath: Assets/Games/hexaFall/Game/Scripts/UI/UITouchHandler.cs
+  uploadId: 648896

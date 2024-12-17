@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 148428a832bff704a8d64dfef891654b
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212144
+  packageName: Hexagon Fall | Template + Editor
+  packageVersion: 1.2.1
+  assetPath: Assets/Project Data/Watermelon Core/Core/Shaders/Includes/Shadow Atten/Shadow
+    Atten.hlsl
+  uploadId: 648896

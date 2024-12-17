@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: e8abb776cd605c347ae7965efa9a3c0d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212144
+  packageName: Hexagon Fall | Template + Editor
+  packageVersion: 1.2.1
+  assetPath: Assets/Project Data/Watermelon Core/Core/Shaders/Editor/RampLitGUI.cs
+  uploadId: 648896

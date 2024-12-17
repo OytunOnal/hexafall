@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3f380e8d700409f4dbeab34e23a4a06a
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212144
+  packageName: Hexagon Fall | Template + Editor
+  packageVersion: 1.2.1
+  assetPath: Assets/Project Data/Watermelon Core/Core/Shaders/Includes/Shadows.hlsl
+  uploadId: 648896

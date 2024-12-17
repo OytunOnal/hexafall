@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 6b52aa3fd92d5bd47905c132f4a9f98c
+timeCreated: 1511208423
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212144
+  packageName: Hexagon Fall | Template + Editor
+  packageVersion: 1.2.1
+  assetPath: Assets/Project Data/Watermelon Core/Core/Default Scripts/Utils/FPSCounter.cs
+  uploadId: 648896

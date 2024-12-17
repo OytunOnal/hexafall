@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 52b62797980adab4fae3b7d230150cb3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212144
+  packageName: Hexagon Fall | Template + Editor
+  packageVersion: 1.2.1
+  assetPath: Assets/Games/hexaFall/Content/ColorsSystem/Colors Database.asset
+  uploadId: 648896

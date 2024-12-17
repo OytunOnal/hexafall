@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2e04978430c32b74183094156c230b2d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212144
+  packageName: Hexagon Fall | Template + Editor
+  packageVersion: 1.2.1
+  assetPath: Assets/Games/hexaFall/Game/Prefabs/Coin.prefab
+  uploadId: 648896

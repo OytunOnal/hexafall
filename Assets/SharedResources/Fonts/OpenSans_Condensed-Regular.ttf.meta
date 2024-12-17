@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: b98ec24b46cdda847a0ccaacf5624cdc
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Open Sans Condensed
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3cb935532826829428d88d755eb180a1, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 196414
+  packageName: Simple Memory Game
+  packageVersion: 1.1
+  assetPath: Assets/Memory Game/Fonts/OpenSans_Condensed-Regular.ttf
+  uploadId: 589632

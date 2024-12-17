@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f0f29e17df9207048bc8b92ff41e4e74
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212144
+  packageName: Hexagon Fall | Template + Editor
+  packageVersion: 1.2.1
+  assetPath: Assets/Project Data/Game/Scripts/Character/ColorSkinBehavior.cs
+  uploadId: 648896

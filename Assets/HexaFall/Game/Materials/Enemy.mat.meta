@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 12aa1fb81d15ea649b5810ce63ca6375
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212144
+  packageName: Hexagon Fall | Template + Editor
+  packageVersion: 1.2.1
+  assetPath: Assets/Games/hexaFall/Game/Materials/Enemy.mat
+  uploadId: 648896

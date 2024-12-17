@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cfa49e2ac445be540af47aca54825fd1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 248300
+  packageName: 'Tic Tac Toe Pro: Smart AI & 2048 Minigame'
+  packageVersion: 1.2.0
+  assetPath: Assets/TicTacToePro/Fonts/ElmessiriRegular-MVYOr SDF.asset
+  uploadId: 595470

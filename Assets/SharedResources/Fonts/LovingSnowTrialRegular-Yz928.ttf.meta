@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 5f8369de4d0dc7e4482b96b083aed256
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Loving Snow Trial
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0de969008ae3f114d8f447c573ebd33d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

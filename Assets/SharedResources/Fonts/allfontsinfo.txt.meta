@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5271827a6aadb1e43870ccdf9318c92f
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163597
+  packageName: Rocket Run - Game Template
+  packageVersion: 1.1
+  assetPath: Assets/RocketRun/Fonts/allfontsinfo.txt
+  uploadId: 534606

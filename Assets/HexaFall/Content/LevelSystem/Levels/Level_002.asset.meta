@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cb1955ea79c8e9649bc42d67804244f7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212144
+  packageName: Hexagon Fall | Template + Editor
+  packageVersion: 1.2.1
+  assetPath: Assets/Games/hexaFall/Content/LevelSystem/Levels/Level_002.asset
+  uploadId: 648896

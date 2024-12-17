@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 9759e35503e3035458ac4a73d0d9788f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212144
+  packageName: Hexagon Fall | Template + Editor
+  packageVersion: 1.2.1
+  assetPath: Assets/Project Data/Game/Scripts/Level/Layer.cs
+  uploadId: 648896

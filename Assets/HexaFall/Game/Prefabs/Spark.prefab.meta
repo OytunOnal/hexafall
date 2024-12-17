@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 71c67399e5f57c741adb369f6298b3fe
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212144
+  packageName: Hexagon Fall | Template + Editor
+  packageVersion: 1.2.1
+  assetPath: Assets/Games/hexaFall/Game/Prefabs/Spark.prefab
+  uploadId: 648896

@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: d2dfc8b394beafc429064dd51f51e4d9
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Showcard Gothic
+  fontNames:
+  - Showcard Gothic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 211997
+  packageName: Cannon Man - Game Template
+  packageVersion: 1.0.1
+  assetPath: Assets/Blitz Games/Cannon Man - Game Template/Font/SHOWG.TTF
+  uploadId: 483207

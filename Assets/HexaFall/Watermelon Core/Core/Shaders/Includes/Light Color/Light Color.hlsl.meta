@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 6c2da481c2768b44893123a7c3829b2c
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212144
+  packageName: Hexagon Fall | Template + Editor
+  packageVersion: 1.2.1
+  assetPath: Assets/Project Data/Watermelon Core/Core/Shaders/Includes/Light Color/Light
+    Color.hlsl
+  uploadId: 648896

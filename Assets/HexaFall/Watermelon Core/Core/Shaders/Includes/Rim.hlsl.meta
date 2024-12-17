@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e6d99a59a9463004dbeb14a05091c9ff
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212144
+  packageName: Hexagon Fall | Template + Editor
+  packageVersion: 1.2.1
+  assetPath: Assets/Project Data/Watermelon Core/Core/Shaders/Includes/Rim.hlsl
+  uploadId: 648896

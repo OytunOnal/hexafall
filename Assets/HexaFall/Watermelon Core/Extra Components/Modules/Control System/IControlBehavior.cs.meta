@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: c6195a8be36b4f34e80eff7b3e89ad85
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212144
+  packageName: Hexagon Fall | Template + Editor
+  packageVersion: 1.2.1
+  assetPath: Assets/Project Data/Watermelon Core/Extra Components/Modules/Control
+    System/IControlBehavior.cs
+  uploadId: 648896

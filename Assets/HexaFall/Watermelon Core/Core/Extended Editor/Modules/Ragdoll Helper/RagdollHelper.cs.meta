@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 39f18a576a9825d4793476efe721973b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212144
+  packageName: Hexagon Fall | Template + Editor
+  packageVersion: 1.2.1
+  assetPath: Assets/Project Data/Watermelon Core/Core/Extended Editor/Modules/Ragdoll
+    Helper/RagdollHelper.cs
+  uploadId: 648896

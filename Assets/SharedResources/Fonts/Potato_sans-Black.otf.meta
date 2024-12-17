@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: ba951900fe6c85e4b9a2015dbe5d2776
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Potato sans
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: af6d722aee7559543b28fe6f10a24b2f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

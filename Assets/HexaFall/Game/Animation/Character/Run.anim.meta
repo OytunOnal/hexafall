@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6a4d025273804324b9d7b381ab341a24
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212144
+  packageName: Hexagon Fall | Template + Editor
+  packageVersion: 1.2.1
+  assetPath: Assets/Games/hexaFall/Game/Animation/Character/Run.anim
+  uploadId: 648896

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 15aa81bdc6de3f742b6588a7cab3e920
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212144
+  packageName: Hexagon Fall | Template + Editor
+  packageVersion: 1.2.1
+  assetPath: Assets/Project Data/Watermelon Core/Core/Default Scripts/Animations/JuicyBounce.cs
+  uploadId: 648896

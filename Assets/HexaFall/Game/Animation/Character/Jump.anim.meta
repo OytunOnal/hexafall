@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c458de5283927644eb4e6ddcd092633b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212144
+  packageName: Hexagon Fall | Template + Editor
+  packageVersion: 1.2.1
+  assetPath: Assets/Games/hexaFall/Game/Animation/Character/Jump.anim
+  uploadId: 648896

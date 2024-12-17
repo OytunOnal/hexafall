@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 357c5aa71d37acb4c8c39f96c6af414a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212144
+  packageName: Hexagon Fall | Template + Editor
+  packageVersion: 1.2.1
+  assetPath: Assets/Project Data/Watermelon Core/Extra Components/Modules/Particle
+    System/ParticleCase.cs
+  uploadId: 648896

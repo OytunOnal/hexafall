@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1b9996edafb772d4390412dbadc29e01
+timeCreated: 1447159301
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212144
+  packageName: Hexagon Fall | Template + Editor
+  packageVersion: 1.2.1
+  assetPath: Assets/Games/hexaFall/Game/Materials/Particles/Round_blurry.mat
+  uploadId: 648896

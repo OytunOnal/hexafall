@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c06a07869b27f8e4aba6be7cb0682eb8
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212144
+  packageName: Hexagon Fall | Template + Editor
+  packageVersion: 1.2.1
+  assetPath: Assets/Project Data/Watermelon Core/Core/Shaders/Includes/Params.hlsl
+  uploadId: 648896

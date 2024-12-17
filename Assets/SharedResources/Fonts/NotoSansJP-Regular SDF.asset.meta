@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7e40fdf9edda6364cb680edc2db06756
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 248300
+  packageName: 'Tic Tac Toe Pro: Smart AI & 2048 Minigame'
+  packageVersion: 1.2.0
+  assetPath: Assets/TicTacToePro/Fonts/NotoSansJP-Regular SDF.asset
+  uploadId: 595470

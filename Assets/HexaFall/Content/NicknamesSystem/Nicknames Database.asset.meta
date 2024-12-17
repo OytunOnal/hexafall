@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 25403f54d0c76ff47a232597f8dcb098
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212144
+  packageName: Hexagon Fall | Template + Editor
+  packageVersion: 1.2.1
+  assetPath: Assets/Games/hexaFall/Content/NicknamesSystem/Nicknames Database.asset
+  uploadId: 648896

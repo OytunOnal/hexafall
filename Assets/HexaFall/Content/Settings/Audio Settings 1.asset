@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb19bbb2996458b4583588243d36dc59, type: 3}
+  m_Name: Audio Settings 1
+  m_EditorClassIdentifier: 
+  music:
+    gameMusic: {fileID: 8300000, guid: dd537f25fb8b85641a0907f233b4f73b, type: 3}
+  sounds:
+    buttonSound: {fileID: 8300000, guid: 6a7b0f867fe4cbd4faf43a1788154a3c, type: 3}
+    winSound: {fileID: 8300000, guid: 93b208079f77d3543bfc70eb5359b121, type: 3}
+    loseSound: {fileID: 8300000, guid: 8d2b04e70be9f6648aee210d5db19183, type: 3}
+    coinSound: {fileID: 8300000, guid: ac1ae8bed6556954b84b22aa090e5566, type: 3}
+    brickSound: {fileID: 8300000, guid: 0c4549ae9a4195d47be6e29614880188, type: 3}

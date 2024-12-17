@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 6c4c36988e5c7ce4080ac7fa78dca44a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212144
+  packageName: Hexagon Fall | Template + Editor
+  packageVersion: 1.2.1
+  assetPath: Assets/Project Data/Game/Scripts/Hexagons/HexMap.cs
+  uploadId: 648896

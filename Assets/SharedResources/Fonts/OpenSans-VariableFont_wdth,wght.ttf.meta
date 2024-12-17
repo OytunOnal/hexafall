@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: c70d66e870d88e74c8a290eedbf0130a
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Open Sans
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 248300
+  packageName: 'Tic Tac Toe Pro: Smart AI & 2048 Minigame'
+  packageVersion: 1.2.0
+  assetPath: Assets/TicTacToePro/Fonts/OpenSans-VariableFont_wdth,wght.ttf
+  uploadId: 595470

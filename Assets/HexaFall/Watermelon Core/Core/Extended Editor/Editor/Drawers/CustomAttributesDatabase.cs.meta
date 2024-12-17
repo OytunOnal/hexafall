@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 50fae47a1e41f4a4f95a32f560287b79
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212144
+  packageName: Hexagon Fall | Template + Editor
+  packageVersion: 1.2.1
+  assetPath: Assets/Project Data/Watermelon Core/Core/Extended Editor/Editor/Drawers/CustomAttributesDatabase.cs
+  uploadId: 648896

@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: a72f5f9902ce1d14ea8c87b5ffd82093
+timeCreated: 1520263566
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212144
+  packageName: Hexagon Fall | Template + Editor
+  packageVersion: 1.2.1
+  assetPath: Assets/Project Data/Watermelon Core/Core/Default Scripts/UI/BaseButton.cs
+  uploadId: 648896

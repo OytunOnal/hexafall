@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 88fc6c5151d5f144b8b895dfc62c6070
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212144
+  packageName: Hexagon Fall | Template + Editor
+  packageVersion: 1.2.1
+  assetPath: Assets/Project Data/Game/Scripts/Character/ProductSetuper.cs
+  uploadId: 648896

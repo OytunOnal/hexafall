@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: a13840ec09c5041918170ec5edd50d97
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Barlow
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 266302
+  packageName: SmashSmash
+  packageVersion: 1.1.0
+  assetPath: Assets/SmashSmash/Fonts/Barlow-ExtraBold.ttf
+  uploadId: 665199

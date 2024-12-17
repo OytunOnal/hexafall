@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 70c84c05a93579246ac20f112340805d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212144
+  packageName: Hexagon Fall | Template + Editor
+  packageVersion: 1.2.1
+  assetPath: Assets/Games/hexaFall/Watermelon Core/Core/Default Modules/Floating
+    Message/Prefabs/Floating Message Canvas.prefab
+  uploadId: 648896

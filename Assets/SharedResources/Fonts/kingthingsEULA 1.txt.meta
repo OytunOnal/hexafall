@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 32bf2b83b6502214398bf267e462a186
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163597
+  packageName: Rocket Run - Game Template
+  packageVersion: 1.1
+  assetPath: Assets/RocketRun/Fonts/kingthingsEULA.txt
+  uploadId: 534606

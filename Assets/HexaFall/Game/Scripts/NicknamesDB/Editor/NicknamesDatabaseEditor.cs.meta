@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7f71550a5634f2740a7b50e5ab5da800
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212144
+  packageName: Hexagon Fall | Template + Editor
+  packageVersion: 1.2.1
+  assetPath: Assets/Project Data/Game/Scripts/NicknamesDB/Editor/NicknamesDatabaseEditor.cs
+  uploadId: 648896

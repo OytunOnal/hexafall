@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3c85909290a0b35469eebde561809615
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212144
+  packageName: Hexagon Fall | Template + Editor
+  packageVersion: 1.2.1
+  assetPath: Assets/Games/hexaFall/Game/Prefabs/UI/UI Main Canvas.prefab
+  uploadId: 648896

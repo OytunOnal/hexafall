@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f833d4e2598e08649a55ac76552d2f57
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212144
+  packageName: Hexagon Fall | Template + Editor
+  packageVersion: 1.2.1
+  assetPath: Assets/Project Data/Watermelon Core/Core/Shaders/Includes/Toon.hlsl
+  uploadId: 648896

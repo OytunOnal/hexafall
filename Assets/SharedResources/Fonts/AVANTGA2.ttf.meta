@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: 0636cd8b6009704409a667b143652a96
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: AvantGarde-Demi
+  fontNames:
+  - AvantGarde-Demi
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 211997
+  packageName: Cannon Man - Game Template
+  packageVersion: 1.0.1
+  assetPath: Assets/Blitz Games/Cannon Man - Game Template/Font/avantgarde-demi/AVANTGA2.ttf
+  uploadId: 483207

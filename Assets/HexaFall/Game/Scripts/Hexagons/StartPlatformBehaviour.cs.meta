@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 4793a3ac8463d3e429dc0353beb8cd57
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212144
+  packageName: Hexagon Fall | Template + Editor
+  packageVersion: 1.2.1
+  assetPath: Assets/Project Data/Game/Scripts/Hexagons/StartPlatformBehaviour.cs
+  uploadId: 648896

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 83ee59a69bb99d247a77b08d7ec8af0e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212144
+  packageName: Hexagon Fall | Template + Editor
+  packageVersion: 1.2.1
+  assetPath: Assets/Project Data/Watermelon Core/Core/Extended Editor/Modules/Core
+    Organizer/Editor/CoreOrganizerEditor.cs
+  uploadId: 648896

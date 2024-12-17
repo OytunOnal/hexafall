@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 783733c6aaef84df5a74c53e71520b4b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 266302
+  packageName: SmashSmash
+  packageVersion: 1.1.0
+  assetPath: Assets/SmashSmash/Fonts/Barlow-ExtraBold SDF.asset
+  uploadId: 665199

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 3d15c5ab948f02f43ab54fd5cb76b71d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212144
+  packageName: Hexagon Fall | Template + Editor
+  packageVersion: 1.2.1
+  assetPath: Assets/Project Data/Watermelon Core/Core/Default Scripts/UI/SlicedFilledImage.cs
+  uploadId: 648896

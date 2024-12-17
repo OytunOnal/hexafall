@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8bbc9f2926de4c04f81e9dd17df494c8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212144
+  packageName: Hexagon Fall | Template + Editor
+  packageVersion: 1.2.1
+  assetPath: Assets/Project Data/Watermelon Core/Core/Extended Editor/EditorStylesExtendedSkin.guiskin
+  uploadId: 648896

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 74e2f1a782e039b4eae8fac5188c76f4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212144
+  packageName: Hexagon Fall | Template + Editor
+  packageVersion: 1.2.1
+  assetPath: Assets/Project Data/Watermelon Core/Core/Default Scripts/UI/Custom Ui
+    Particle/UIParticle.cs
+  uploadId: 648896

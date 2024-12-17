@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 36cce1123aa1e9043afe2853a721f9bb
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212144
+  packageName: Hexagon Fall | Template + Editor
+  packageVersion: 1.2.1
+  assetPath: Assets/Games/hexaFall/Watermelon Core/Extra Components/Modules/Control
+    System/Joystick/Animations/Floating Joystick.controller
+  uploadId: 648896

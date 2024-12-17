@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 42a7cd7e7f3bec5438a31aa38b87a349
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212144
+  packageName: Hexagon Fall | Template + Editor
+  packageVersion: 1.2.1
+  assetPath: Assets/Project Data/Watermelon Core/Core/Shaders/Includes/Curve.hlsl
+  uploadId: 648896

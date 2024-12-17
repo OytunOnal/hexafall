@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 9500e3c1f3cdabc45a59ff15efbd77fd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212144
+  packageName: Hexagon Fall | Template + Editor
+  packageVersion: 1.2.1
+  assetPath: Assets/Project Data/Watermelon Core/Core/Default Modules/Tween/DoTween/DoFadeTween.cs
+  uploadId: 648896

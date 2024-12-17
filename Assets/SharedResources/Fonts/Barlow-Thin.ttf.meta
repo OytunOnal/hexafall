@@ -1,0 +1,30 @@
+fileFormatVersion: 2
+guid: 2aca9c7f7b9184c9e97a311ba31f799f
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Barlow
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a13840ec09c5041918170ec5edd50d97, type: 3}
+  - {fileID: 12800000, guid: 479fe292d22694443b48fbd760471991, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 266302
+  packageName: SmashSmash
+  packageVersion: 1.1.0
+  assetPath: Assets/SmashSmash/Fonts/Barlow-Thin.ttf
+  uploadId: 665199

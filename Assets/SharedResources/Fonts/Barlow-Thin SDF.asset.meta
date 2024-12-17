@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d6f8966b039ac4954a81b05abfa0c110
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 266302
+  packageName: SmashSmash
+  packageVersion: 1.1.0
+  assetPath: Assets/SmashSmash/Fonts/Barlow-Thin SDF.asset
+  uploadId: 665199

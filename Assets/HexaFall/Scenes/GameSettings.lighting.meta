@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a5cd7c11b21cf224cb4d07dd7e72bdbf
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212144
+  packageName: Hexagon Fall | Template + Editor
+  packageVersion: 1.2.1
+  assetPath: Assets/Games/hexaFall/Game/Scenes/GameSettings.lighting
+  uploadId: 648896

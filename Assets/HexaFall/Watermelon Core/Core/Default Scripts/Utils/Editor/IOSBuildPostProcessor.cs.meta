@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 396be8033a1fa4a26a6666e7b92e3da1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212144
+  packageName: Hexagon Fall | Template + Editor
+  packageVersion: 1.2.1
+  assetPath: Assets/Project Data/Watermelon Core/Core/Default Scripts/Utils/Editor/IOSBuildPostProcessor.cs
+  uploadId: 648896

@@ -1,0 +1,143 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-6519091366321505441
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4b590aedda841e458e71b9f714bbe47, type: 3}
+  m_Name: HexFall.PrefsInitModule
+  m_EditorClassIdentifier: 
+  moduleName: Prefs Settings
+  prefsSettings: {fileID: 0}
+--- !u!114 &-4627392808686253304
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35eb353375c8bb340b11c6306b0786dd, type: 3}
+  m_Name: HexFall.ControlInitModule
+  m_EditorClassIdentifier: 
+  moduleName: Control Manager
+  selectAutomatically: 0
+  inputType: 1
+--- !u!114 &-3139921384406414994
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b57538f89b272c44099d9cde1637687d, type: 3}
+  m_Name: HexFall.AudioControllerInitModule
+  m_EditorClassIdentifier: 
+  moduleName: Audio Controller
+  audioSettings: {fileID: 11400000, guid: 6446d87efe1df3c4dbd782e1f24f8483, type: 2}
+  playRandomMusic: 1
+--- !u!114 &-1736776149680043990
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6502da7177729af4fbe4808c93025ab3, type: 3}
+  m_Name: HexFall.TweenInitModule
+  m_EditorClassIdentifier: 
+  moduleName: Tween
+  easingSettings: {fileID: 0}
+  tweensUpdateCount: 300
+  tweensFixedUpdateCount: 30
+  tweensLateUpdateCount: 0
+  verboseLogging: 0
+--- !u!114 &-1392014032335310397
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4b590aedda841e458e71b9f714bbe47, type: 3}
+  m_Name: HexFall.PrefsInitModule
+  m_EditorClassIdentifier: 
+  moduleName: Prefs Settings
+  prefsSettings: {fileID: 11400000, guid: fc5d97e8832410a43a7c76711bd215c0, type: 2}
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e4ceaaa72d52466479e6a8493365782a, type: 3}
+  m_Name: Project Init Settings 1
+  m_EditorClassIdentifier: 
+  coreModules:
+  - {fileID: 6997334123699787571}
+  - {fileID: -1392014032335310397}
+  - {fileID: 4281767425340203295}
+  initModules:
+  - {fileID: -3139921384406414994}
+  - {fileID: -4627392808686253304}
+--- !u!114 &594130657365227723
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34f27d59b0f7fd64bbdece140f4e0eae, type: 3}
+  m_Name: HexFall.FloatingMessageInitModule
+  m_EditorClassIdentifier: 
+  moduleName: Floating Message
+  canvas: {fileID: 0}
+--- !u!114 &4281767425340203295
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6502da7177729af4fbe4808c93025ab3, type: 3}
+  m_Name: HexFall.TweenInitModule
+  m_EditorClassIdentifier: 
+  moduleName: Tween
+  easingSettings: {fileID: 11400000, guid: 8f13d9414a89d754f87a4d03c5072d73, type: 2}
+  tweensUpdateCount: 300
+  tweensFixedUpdateCount: 30
+  tweensLateUpdateCount: 0
+  verboseLogging: 0
+--- !u!114 &6997334123699787571
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34f27d59b0f7fd64bbdece140f4e0eae, type: 3}
+  m_Name: HexFall.FloatingMessageInitModule
+  m_EditorClassIdentifier: 
+  moduleName: Floating Message
+  canvas: {fileID: 8061296051001136106, guid: 70c84c05a93579246ac20f112340805d, type: 3}

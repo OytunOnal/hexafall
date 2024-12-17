@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b902f63a4c796db4c9c58b5264146425
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212144
+  packageName: Hexagon Fall | Template + Editor
+  packageVersion: 1.2.1
+  assetPath: Assets/Project Data/Watermelon Core/Core/Extended Editor/Editor/Drawers/PropertyDrawers/PropertyDrawer.cs
+  uploadId: 648896

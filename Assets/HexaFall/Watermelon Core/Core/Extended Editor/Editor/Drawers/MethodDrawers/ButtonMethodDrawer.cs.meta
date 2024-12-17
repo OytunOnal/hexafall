@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: d96caf6dd6e775042975462171ee5708
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212144
+  packageName: Hexagon Fall | Template + Editor
+  packageVersion: 1.2.1
+  assetPath: Assets/Project Data/Watermelon Core/Core/Extended Editor/Editor/Drawers/MethodDrawers/ButtonMethodDrawer.cs
+  uploadId: 648896

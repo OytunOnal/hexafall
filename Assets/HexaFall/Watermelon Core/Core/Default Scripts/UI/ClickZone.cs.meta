@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 52d8af9cc10f9d44784aa404376817d6
+timeCreated: 1517692094
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: -10
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212144
+  packageName: Hexagon Fall | Template + Editor
+  packageVersion: 1.2.1
+  assetPath: Assets/Project Data/Watermelon Core/Core/Default Scripts/UI/ClickZone.cs
+  uploadId: 648896

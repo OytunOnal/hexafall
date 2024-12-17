@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51c933822bec13644ae3179265fd2ecf, type: 3}
+  m_Name: Nicknames Database
+  m_EditorClassIdentifier: 
+  nicknames:
+  - Bambi
+  - Hawk
+  - Gordo
+  - Friendo
+  - Gummy Pop
+  - Raindrop
+  - Mini Mini
+  - Cat
+  - Piggy
+  - Senorita
+  - First Mate
+  - Cheerio
+  - Sassy
+  - Honey Pie
+  - Salt
+  - Dreamey
+  - Bumpkin
+  - Beetle
+  - Diesel
+  - Dinosaur
+  - Bebe
+  - Chain
+  - Guest8442
+  - Guest0041
+  - Guest2530
+  - Guest3670
+  - Guest7850
+  - Guest2831
+  - Guest1128
+  - Guest9975

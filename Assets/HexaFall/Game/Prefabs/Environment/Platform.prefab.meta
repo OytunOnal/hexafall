@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 80e2f9dd8c46e984880dea0e8e683fd8
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212144
+  packageName: Hexagon Fall | Template + Editor
+  packageVersion: 1.2.1
+  assetPath: Assets/Games/hexaFall/Game/Prefabs/Environment/Platform.prefab
+  uploadId: 648896

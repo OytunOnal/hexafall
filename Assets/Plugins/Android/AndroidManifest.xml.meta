@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 57777ed30e2ffc0448835dc8acaac51c
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212144
+  packageName: Hexagon Fall | Template + Editor
+  packageVersion: 1.2.1
+  assetPath: Assets/Plugins/Android/AndroidManifest.xml
+  uploadId: 648896

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 53d508ac12198b748ba4dd2d9d2cf600
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212144
+  packageName: Hexagon Fall | Template + Editor
+  packageVersion: 1.2.1
+  assetPath: Assets/Games/hexaFall/Game/Materials/Entity Skins/Violet Skin.mat
+  uploadId: 648896

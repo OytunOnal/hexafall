@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 4ed2a9d9cd0e5524f820e312200e7a5f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212144
+  packageName: Hexagon Fall | Template + Editor
+  packageVersion: 1.2.1
+  assetPath: Assets/Project Data/Watermelon Core/Extra Components/Modules/Floating
+    Text/Behaviours/FloatingTextUpgradesBehaviour.cs
+  uploadId: 648896

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c84a4737bf0535646957ffe1f3f86df5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212144
+  packageName: Hexagon Fall | Template + Editor
+  packageVersion: 1.2.1
+  assetPath: Assets/Project Data/Watermelon Core/Extra Components/Modules/Skin Store/Scripts/SkinData.cs
+  uploadId: 648896

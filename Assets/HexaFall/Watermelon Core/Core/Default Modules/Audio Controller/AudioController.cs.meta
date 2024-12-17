@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 5f52ffde4e473054883d5752a4a1d4eb
+timeCreated: 1515929258
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212144
+  packageName: Hexagon Fall | Template + Editor
+  packageVersion: 1.2.1
+  assetPath: Assets/Project Data/Watermelon Core/Core/Default Modules/Audio Controller/AudioController.cs
+  uploadId: 648896

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: acfcfc021d162644f83e4c3d8b4d4a1b
+timeCreated: 1488918501
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212144
+  packageName: Hexagon Fall | Template + Editor
+  packageVersion: 1.2.1
+  assetPath: Assets/Project Data/Watermelon Core/Core/Default Modules/Serializer/Serializer.cs
+  uploadId: 648896

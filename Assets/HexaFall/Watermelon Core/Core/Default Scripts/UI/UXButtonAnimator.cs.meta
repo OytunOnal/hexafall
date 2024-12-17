@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: c0750b381ba1821438fe23b497a37dd8
+timeCreated: 1520267298
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212144
+  packageName: Hexagon Fall | Template + Editor
+  packageVersion: 1.2.1
+  assetPath: Assets/Project Data/Watermelon Core/Core/Default Scripts/UI/UXButtonAnimator.cs
+  uploadId: 648896

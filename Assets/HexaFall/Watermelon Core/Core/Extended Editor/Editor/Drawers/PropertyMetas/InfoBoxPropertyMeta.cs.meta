@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 9849b0c3503e9ca45b1298b2c15ad5b6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212144
+  packageName: Hexagon Fall | Template + Editor
+  packageVersion: 1.2.1
+  assetPath: Assets/Project Data/Watermelon Core/Core/Extended Editor/Editor/Drawers/PropertyMetas/InfoBoxPropertyMeta.cs
+  uploadId: 648896

@@ -1,0 +1,19 @@
+v1.2.1
+VFX reworked
+Watermelon Core update
+
+v1.2.0
+Unity 2022 support
+Core update
+
+v1.1.6
+Unity 2021 support
+Core update
+Ads module update
+Bug fix
+
+v1.1
+Added nicknames system
+
+v1.0
+Base

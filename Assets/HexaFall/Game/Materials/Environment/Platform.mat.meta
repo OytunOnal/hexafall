@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 906074982a201c94a86b73efce0407ef
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212144
+  packageName: Hexagon Fall | Template + Editor
+  packageVersion: 1.2.1
+  assetPath: Assets/Games/hexaFall/Game/Materials/Environment/Platform.mat
+  uploadId: 648896

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 5b26414eeeebb544e8a08504299247d5
+timeCreated: 1456408492
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212144
+  packageName: Hexagon Fall | Template + Editor
+  packageVersion: 1.2.1
+  assetPath: Assets/Project Data/Watermelon Core/Core/Default Scripts/UI/CameraCorners.cs
+  uploadId: 648896
